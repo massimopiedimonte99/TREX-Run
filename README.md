@@ -1,6 +1,8 @@
 # TREX-Run
 Simple TREX-Run remake with Python and Pygame
 
+<img src="https://i.ibb.co/HNCZyRb/ezgif-6-40ce03014071.gif" />
+
  ## Credits
  * [Sounds](https://freesound.org/)
  * [Assets](https://custom-cursor.com/fr/collection/cursors/455)
